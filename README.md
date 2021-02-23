@@ -4,7 +4,7 @@
 **marcosvictor0/marcosvictor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <img src = 'C:\PROJETODOSENAC\imagens' alt= 'Imagem de estudo'> 
+ <img src = 'C:/PROJETODOSENAC/imagens' alt= 'Imagem de estudo'> 
 
 Here are some ideas to get you started:
 
