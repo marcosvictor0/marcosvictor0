@@ -7,10 +7,10 @@
  <img align = "right"  src = "https://i.pinimg.com/originals/d4/af/37/d4af37c6ba0be75dea52dae46c8e16b7.png" alt= "Imagem de estudo" width="400" height="250"> 
 &nbsp;
 
-Here are some ideas to get you started:
+Front-End Lover, and that every day we can learn a little more about this beautiful world.
 
 - 🌱 I’m currently learning :  Html, Css, JavaScript, SQL, ReactNative and Python
-- 👯 I’m looking to collaborate on = Front-End Projects
+- 👯 I’m looking to collaborate on : Front-End Projects
 - 🤔 I’m looking for help with : JavaScript, ReactNative and Python
 - 💬 Ask me about : Technology, games, studies and anime
 - 📫 How to reach me: access the links below.
