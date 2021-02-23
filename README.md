@@ -5,6 +5,7 @@
 -->
 
  <img src = "https://i.pinimg.com/originals/d4/af/37/d4af37c6ba0be75dea52dae46c8e16b7.png" alt= "Imagem de estudo" width="400" height="250"> 
+&nbsp;
 
 Here are some ideas to get you started:
 
