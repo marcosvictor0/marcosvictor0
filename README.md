@@ -4,7 +4,7 @@
 **marcosvictor0/marcosvictor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-markdown ![](C:\PROJETODOSENAC\imagens)
+ img [](C:\PROJETODOSENAC\imagens)
 
 Here are some ideas to get you started:
 
