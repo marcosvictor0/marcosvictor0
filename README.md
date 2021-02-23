@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Victor-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcos-victor-da-costa-soares/)](https://www.linkedin.com/in/marcos-victor-da-costa-soares/)
-[![Microsoft Badge](https://img.shields.io/badge/-marcos_victor159@hotmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=microsoft&logoColor=white&link=mailto:marcos_victor159@hotmail.com)](mailto:marcos_victor159@hotmail.com)
+[![Microsoft Badge](https://img.shields.io/badge/-marcos__victor159@hotmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=microsoft&logoColor=white&link=mailto:marcos_victor159@hotmail.com)](mailto:marcos_victor159@hotmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@marcos13009-8257e5?style=flat-square&labelColor=8257e5&logo=twitter&logoColor=white&link=https://twitter.com/marcos13009)](https://twitter.com/marcos13009)
-[![Instagram Badge](https://img.shields.io/badge/-@m_de_marcos-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/m_de_marcoss/)](https://www.instagram.com/m_de_marcoss/)
+[![Instagram Badge](https://img.shields.io/badge/-@m__de__marcos-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/m_de_marcoss/)](https://www.instagram.com/m_de_marcoss/)
 
