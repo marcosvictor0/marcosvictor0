@@ -23,32 +23,3 @@ Front-End Lover, and that every day we can learn a little more about this beauti
 [![Twitter Badge](https://img.shields.io/badge/-@marcos13009-8257e5?style=flat-square&labelColor=8257e5&logo=twitter&logoColor=white&link=https://twitter.com/marcos13009)](https://twitter.com/marcos13009)
 [![Instagram Badge](https://img.shields.io/badge/-@m__de__marcos-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/m_de_marcoss/)](https://www.instagram.com/m_de_marcoss/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-marcus deixou sua guia exposta
-
-
-
-         <,︻╦̵̵̿╤─ ҉     ~  •
-█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
-▂▄▅█████████▅▄▃▂…
-[███████████████████]
-◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
