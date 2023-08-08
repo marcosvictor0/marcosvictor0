@@ -9,7 +9,7 @@
 
 Front-End Lover, and that every day we can learn a little more about this beautiful world.
 
-- 🌱 I’m currently learning :  Html, Css, JavaScript, React
+- 🌱 I’m currently learning :  Html, Css, JavaScript, TypeScript e Angular
 - 👯 I’m looking to collaborate on : Front-End Projects
 - 🤔 I’m looking for help with : JavaScript and React
 - 💬 Ask me about : Technology, games, studies and anime
